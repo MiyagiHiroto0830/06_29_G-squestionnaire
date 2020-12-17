@@ -1,0 +1,24 @@
+body{
+    background-color: coral;
+}
+form{
+    text-align: center;
+    
+}
+.main{
+    width:70%;
+    margin: 0 auto;
+}
+.contents{
+    text-align: center;
+}
+.form-title{
+    text-align: center;
+    font-size: 40px;
+}
+input{
+    margin-bottom: 30px;
+}
+select{
+    margin-bottom: 30px;
+}
